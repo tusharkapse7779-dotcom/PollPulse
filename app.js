@@ -1,4 +1,4 @@
-/**
+
  * Election Guide Pro - Main Application Module
  * @version 1.0.0
  * @author Election Guide Team
@@ -740,4 +740,4 @@ class ElectionApp {
 document.addEventListener('DOMContentLoaded', () => {
     const app = new ElectionApp();
     app.init();
-});*/
+});
